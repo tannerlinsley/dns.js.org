@@ -1321,8 +1321,6 @@ var cnames_active = {
   "react-atomic-ui": "react-atomic.github.io/react-atomic-ui",
   "react-autosuggest": "moroshko.github.io/react-autosuggest", // noCF? (don´t add this in a new PR)
   "react-autowhatever": "moroshko.github.io/react-autowhatever", // noCF? (don´t add this in a new PR)
-  "react-chart": "react-charts.netlify.com",
-  "react-charts": "react-charts.netlify.com",
   "react-command-palette": "react-command-palette.netlify.com",
   "react-controlled-form": "rofrischmann.github.io/react-controlled-form",
   "react-coroutine": "alexeyraspopov.github.io/react-coroutine",
