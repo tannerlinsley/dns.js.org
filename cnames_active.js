@@ -1690,8 +1690,8 @@ var cnames_active = {
   "react-autosuggest": "moroshko.github.io/react-autosuggest", // noCF? (don´t add this in a new PR)
   "react-autowhatever": "moroshko.github.io/react-autowhatever", // noCF? (don´t add this in a new PR)
   "react-character-map": "vpukhanov.github.io/react-character-map",
-  "react-chart": "react-charts.netlify.com",
-  "react-charts": "react-charts.netlify.com",
+  "react-chart": "cname.vercel-dns.com",
+  "react-charts": "cname.vercel-dns.com",
   "react-command-palette": "react-command-palette.netlify.com",
   "react-controlled-form": "rofrischmann.github.io/react-controlled-form",
   "react-coroutine": "alexeyraspopov.github.io/react-coroutine",
@@ -1700,7 +1700,7 @@ var cnames_active = {
   "react-dropzone-uploader": "fortana-co.github.io/react-dropzone-uploader",
   "react-easy-swipe": "leandrowd.github.io/react-easy-swipe", // noCF? (don´t add this in a new PR)
   "react-entanglement": "react-entanglement.github.io",
-  "react-form": "react-form.netlify.com",
+  "react-form": "cname.vercel-dns.com",
   "react-hint": "slmgc.github.io/react-hint",
   "react-layout-components": "kripod.github.io/react-layout-components",
   "react-leaflet": "paullecam.github.io/react-leaflet",
@@ -1714,9 +1714,9 @@ var cnames_active = {
   "react-redux": "react-redux-docs.netlify.com", //noCF
   "react-responsive-carousel": "leandrowd.github.io/react-responsive-carousel", // noCF? (don´t add this in a new PR)
   "react-static": "nozzle-react-static.netlify.com",
-  "react-story": "react-story.netlify.com",
+  "react-story": "cname.vercel-dns.com",
   "react-styleguidist": "styleguidist.netlify.com",
-  "react-table": "react-table.netlify.com",
+  "react-table": "cname.vercel-dns.com",
   "react-telegram": "appbak3r.github.io/react-telegram",
   "react-through": "hosting.gitbook.com", // noCF
   "react-toulouse": "moox.github.io/react-toulouse",
